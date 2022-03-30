@@ -42,9 +42,9 @@
 ⚡ Bla bla bla...<br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsynarsln&show_icons=true&locale=en&layout=compact" alt="hsynarsln" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aemingenc&show_icons=true&locale=en&layout=compact" alt="hsynarsln" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsynarsln&show_icons=true&locale=en" alt="hsynarsln" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aemingenc&show_icons=true&locale=en" alt="hsynarsln" /></p>
 
 </br>
 </br>
