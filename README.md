@@ -38,8 +38,7 @@
 🏠 I’m currently living at Bursa, in Turkey <br>
 👨‍💻 I’m currently working as a Jr. Full-stack Developer.<br>
 🌱 I’m currently learning English 🤦‍♂.<br>
-☕️ I’m coffeer.<br>
-⚡ Bla bla bla...<br>
+📫 How to reach me **aemingenc@gmail.com**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aemingenc&show_icons=true&locale=en&layout=compact" alt="aemingenc" /></p>
@@ -59,7 +58,11 @@
 
 <i>Follow me around the web:</i><br>
 
+<p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/abdullah-emin-gen%C3%A7-887312216/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
+<a href="https://linkedin.com/in/hüseyin-arslan-1752b121a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hüseyin-arslan-1752b121a/" height="30" width="40" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/abdullah-emin-gen%C3%A7-887312216/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
+</p>
 
 </div>
 
