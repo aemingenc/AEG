@@ -60,7 +60,9 @@
 
 <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/abdullah-emin-gen%C3%A7-887312216/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-<a href="https://linkedin.com/in/hüseyin-arslan-1752b121a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hüseyin-arslan-1752b121a/" height="30" width="40" /></a>
+<br>
+<a href="href="https://www.linkedin.com/in/abdullah-emin-gen%C3%A7-887312216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aemingenc" height="30" width="40" /></a>
+<br>
   <a target="_blank" href="https://www.linkedin.com/in/abdullah-emin-gen%C3%A7-887312216/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
 </p>
 
