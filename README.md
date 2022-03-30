@@ -42,9 +42,9 @@
 ⚡ Bla bla bla...<br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aemingenc&show_icons=true&locale=en&layout=compact" alt="hsynarsln" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aemingenc&show_icons=true&locale=en&layout=compact" alt="aemingenc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aemingenc&show_icons=true&locale=en" alt="hsynarsln" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aemingenc&show_icons=true&locale=en" alt="aemingenc" /></p>
 
 </br>
 </br>
@@ -59,8 +59,8 @@
 
 <i>Follow me around the web:</i><br>
 
-<a target="_blank" href="https://www.linkedin.com/in/%C3%B6mer-faruk-yolu/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
+<a target="_blank" href="https://www.linkedin.com/in/abdullah-emin-gen%C3%A7-887312216/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
 
 </div>
 
-<p align="right"><img src="https://github.com/D1183-Mustafa/D1183-Mustafa/blob/main/kedi.gif" width="70px"> <img src="https://komarev.com/ghpvc/?username=OMRFRKYL"            alt="OMRFRKYL" /> </p>
+<p align="right"><img src="https://github.com/D1183-Mustafa/D1183-Mustafa/blob/main/kedi.gif" width="70px"> <img src="https://komarev.com/ghpvc/?username=aemingenc"            alt="aemingenc" /> </p>
